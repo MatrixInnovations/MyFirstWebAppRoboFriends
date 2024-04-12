@@ -2,5 +2,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); /* w3c */
+  /* background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);  */
+  /* background: radial-gradient(circle at 100%, #333,#333 50%, #eee 75%, #333 75%); */
+  /* background: radial-gradient(#1d2b64, #f8cdda); */
+  background: radial-gradient(#aafeff, #801155);
+
 }
+
+
+
